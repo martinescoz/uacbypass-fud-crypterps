@@ -98,4 +98,3 @@ mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'taskkill /IM cmstp.e
 
 [CustInstDestSectionAllUsers]
 49000,49001=AllUSer_LDIDSection, 7
-
