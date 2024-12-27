@@ -2,4 +2,4 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("UACBypass")]
-[assembly: AssemblyD
+[assembly: Assem
