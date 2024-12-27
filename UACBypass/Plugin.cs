@@ -118,4 +118,4 @@ public static class User32
     public static extern IntPtr FindWindowEx(IntPtr hwndParent, IntPtr hwndChildAfter, string lpszClass, string lpszWindow);
 
     [DllImport("user32.dll")]
-    public static extern IntPtr PostMessage(IntPtr hWnd
+    public static extern IntPtr PostMessage(IntPtr 
