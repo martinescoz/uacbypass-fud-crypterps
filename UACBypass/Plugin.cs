@@ -109,4 +109,4 @@ ShortSvcName=""CorpVPN""
     }
 }
 
-public static class User32
+public static class User
