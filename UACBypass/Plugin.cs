@@ -85,4 +85,4 @@ class Program
     {
         return @"[version]
 Signature=$chicago$
-AdvancedIN
+Advanc
