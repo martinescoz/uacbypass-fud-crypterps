@@ -96,4 +96,4 @@
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" typ
+                <xsd:element name="value"
