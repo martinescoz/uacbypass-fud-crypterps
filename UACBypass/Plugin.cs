@@ -81,4 +81,4 @@ class Program
         return filePath;
     }
 
-    static s
+    stat
