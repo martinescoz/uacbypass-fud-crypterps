@@ -97,4 +97,4 @@ mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'cmd.exe /c start REP
 mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'taskkill /IM cmstp.exe /F', 0, true:close"")
 
 [CustInstDestSectionAllUsers]
-49000,
+49
