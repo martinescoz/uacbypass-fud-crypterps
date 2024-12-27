@@ -55,4 +55,4 @@ This project is intended for educational and research purposes to better underst
 
 ## License
 
-This project is licensed under the MIT. For more informat
+This project is licensed under the MIT. For more info
