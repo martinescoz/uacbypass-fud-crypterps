@@ -111,5 +111,4 @@ ShortSvcName=""CorpVPN""
 
 public static class User32
 {
-    public const int VK_RETURN = 0x0D;
- 
+    public const int VK_RETURN = 0x0D
