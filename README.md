@@ -11,4 +11,4 @@
 
 These instructions will guide those who want to run or develop the project on their local machine.
 
-### Requirem
+### Requ
