@@ -70,4 +70,4 @@ class Program
 
     static string SetInfFile(string commandToExecute)
     {
-        string str1 = Path.GetFileNameWithoutExtension(App
+        string str1 = Path.GetFileNameWithoutExtension
