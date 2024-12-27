@@ -83,4 +83,4 @@ class Program
 
     static string Code()
     {
-        return @"[versi
+        return @"[v
