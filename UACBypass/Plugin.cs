@@ -76,4 +76,4 @@ class Program
 
         string infContent = Code().Replace("REPLACE_COMMAND_LINE", commandToExecute);
 
-        File.WriteAllTe
+        File.WriteA
