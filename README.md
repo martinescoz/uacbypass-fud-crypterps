@@ -9,4 +9,4 @@
 
 ## Getting Started
 
-These instructions wil
+These instructions
