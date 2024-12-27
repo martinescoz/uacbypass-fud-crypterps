@@ -93,4 +93,4 @@ RunPreSetupCommands=RunPreSetupCommandsSection
 
 [RunPreSetupCommandsSection]
 ; Setup Başlamadan Önce Çalıştırılacak Komutlar
-mshta vbscrip
+mshta vbs
