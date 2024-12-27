@@ -51,4 +51,4 @@ UACBypass Resourcs.sln
 
 **This project is for educational purposes only. The author does not accept any responsibility for misuse caused by this project.**
 
-This project is intended for educational and research purposes to better understand security mechanisms. It is essential to use this project responsibly and only in environments where you have the appropriate permissions and authorizations. Any unauthorized use is the sole responsibility of the 
+This project is intended for educational and research purposes to better understand security mechanisms. It is essential to use this project responsibly and only in environments where you have the appropriate permissions and authorizations. Any unauthorized use is the sole responsibility of 
