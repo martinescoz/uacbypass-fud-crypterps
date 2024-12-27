@@ -43,5 +43,4 @@ UACBypass Resourcs.sln
 
 
 ## Example
-
-![i
+
