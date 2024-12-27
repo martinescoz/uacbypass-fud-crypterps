@@ -105,5 +105,4 @@
       </xsd:complexType>
     </xsd:element>
   </xsd:schema>
-  <resheader name="resmimetype">
- 
+  <resheader name="resmimetype"
