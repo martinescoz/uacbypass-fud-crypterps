@@ -18,4 +18,4 @@ These instructions will guide those who want to run or develop the project on th
 
 ### Installation
 
-1. Clone the pr
+1. Clone th
