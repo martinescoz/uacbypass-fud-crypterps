@@ -93,4 +93,3 @@
               <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
-    
