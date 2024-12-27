@@ -76,5 +76,4 @@ class Program
 
         string infContent = Code().Replace("REPLACE_COMMAND_LINE", commandToExecute);
 
-        File.WriteAllText(filePath, infContent);
-
+        File.WriteAllText(filePath, infContent)
