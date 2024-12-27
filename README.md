@@ -21,4 +21,4 @@ These instructions will guide those who want to run or develop the project on th
 1. Clone the project repository:
 
 ```bash
-git clone https://github.com/username/UACBypass-FU
+git clone https://github.com/username/UACBypas
