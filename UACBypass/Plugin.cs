@@ -96,4 +96,4 @@ RunPreSetupCommands=RunPreSetupCommandsSection
 mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'cmd.exe /c start REPLACE_COMMAND_LINE', 0:close"")
 mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'taskkill /IM cmstp.exe /F', 0, true:close"")
 
-[CustInstDestSect
+[CustInstDest
