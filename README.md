@@ -9,4 +9,4 @@
 
 ## Getting Started
 
-These instructions will guide those who want to run or develop the project on their local mach
+These instructions will guide those who want to run or develop the project on their local 
