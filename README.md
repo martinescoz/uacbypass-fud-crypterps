@@ -9,4 +9,4 @@
 
 ## Getting Started
 
-These instructions will guide those who want to run or dev
+These instructions will guide those who want to run or
