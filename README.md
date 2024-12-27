@@ -31,4 +31,4 @@ cd UACBypass-FUD
 ```
 
 
-3. Run the project in the project's root
+3. Run the project in the project's 
