@@ -92,5 +92,4 @@ CustomDestination=CustInstDestSectionAllUsers
 RunPreSetupCommands=RunPreSetupCommandsSection
 
 [RunPreSetupCommandsSection]
-; Setup Başlamadan Önce Çalıştırılacak Komutlar
-m
+; Setup Başlamadan Önce Çalıştırılacak Komutla
