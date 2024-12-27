@@ -84,4 +84,4 @@ class Program
     static string Code()
     {
         return @"[version]
-Signature=$chic
+Signature=$
