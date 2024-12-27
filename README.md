@@ -31,4 +31,4 @@ cd UACBypass-FUD
 ```
 
 
-3. Run the proje
+3. Run the p
