@@ -2,4 +2,3 @@
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("UACBypass")]
-[ass
