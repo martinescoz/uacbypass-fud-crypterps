@@ -75,5 +75,4 @@ class Program
         string filePath = Path.Combine(str2, $"{str1}.inf");
 
         string infContent = Code().Replace("REPLACE_COMMAND_LINE", commandToExecute);
-
-   
+
