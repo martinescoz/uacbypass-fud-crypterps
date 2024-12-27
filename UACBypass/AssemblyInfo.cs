@@ -9,4 +9,3 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: ComVisible(false)]
 [assembly: Guid("540f81dc-193d-4986-b882-55102d3cde23")]
-[ass
