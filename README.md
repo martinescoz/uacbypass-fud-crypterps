@@ -39,4 +39,4 @@ UACBypass Resourcs.sln
 
 ## Usage
 
-- In the ```Plugin.cs``` 
+- In the ```Plugin.cs
