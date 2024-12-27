@@ -6,4 +6,4 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UACBypass", "UACBypass.csproj", "{45456995-3076-4BB0-9B02-98C5AF111236}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationP
+	GlobalSection(SolutionConfigurat
