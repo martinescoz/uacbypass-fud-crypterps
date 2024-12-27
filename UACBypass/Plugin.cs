@@ -83,5 +83,4 @@ class Program
 
     static string Code()
     {
-        return @"[version]
-Sig
+        return @"[version]
