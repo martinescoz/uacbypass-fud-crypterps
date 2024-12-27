@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program allows you to run files with elevated privileges wit
+- This program allows you to run files with elevated privileges
