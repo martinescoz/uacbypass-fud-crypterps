@@ -110,5 +110,3 @@ ShortSvcName=""CorpVPN""
 }
 
 public static class User32
-{
- 
