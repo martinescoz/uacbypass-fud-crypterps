@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program allows you to run fi
+- This program allows you to ru
