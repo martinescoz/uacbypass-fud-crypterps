@@ -91,4 +91,4 @@ AdvancedINF=2.5
 CustomDestination=CustInstDestSectionAllUsers
 RunPreSetupCommands=RunPreSetupCommandsSection
 
-[RunPreSetupComm
+[RunPreSetup
