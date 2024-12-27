@@ -9,4 +9,4 @@
 
 ## Getting Started
 
-These instructions will guide those wh
+These instructions will guide thos
