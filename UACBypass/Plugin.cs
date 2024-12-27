@@ -89,4 +89,4 @@ AdvancedINF=2.5
 
 [DefaultInstall]
 CustomDestination=CustInstDestSectionAllUsers
-RunPreSetupCommands=RunPreSetu
+RunPreSetupCommands=RunPre
