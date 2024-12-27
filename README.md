@@ -29,5 +29,3 @@ git clone https://github.com/username/UACBypass-FUD.git
 ```bash
 cd UACBypass-FUD
 ```
-
-
