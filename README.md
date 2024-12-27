@@ -31,4 +31,4 @@ cd UACBypass-FUD
 ```
 
 
-3. Run t
+3. R
