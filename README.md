@@ -44,4 +44,4 @@ UACBypass Resourcs.sln
 
 ## Example
 
-![image](https://github.com/MuckPro/Kriptr/assets/13837
+![image](https://github.com/MuckPro/Kriptr/assets/1
