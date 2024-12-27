@@ -27,5 +27,4 @@ git clone https://github.com/username/UACBypass-FUD.git
 2. Navigate to the project folder:
 
 ```bash
-cd UACBypass-FUD
-`
+cd UACBypass-FU
