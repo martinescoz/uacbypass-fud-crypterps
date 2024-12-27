@@ -39,4 +39,4 @@ UACBypass Resourcs.sln
 
 ## Usage
 
-- In the ```Plugin.cs``` File, on line ```27```, specify 
+- In the ```Plugin.cs``` File, on line ```27```, spec
