@@ -7,4 +7,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("UACBypass")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
-[asse
+[
