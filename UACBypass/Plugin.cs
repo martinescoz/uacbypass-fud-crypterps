@@ -89,4 +89,3 @@ AdvancedINF=2.5
 
 [DefaultInstall]
 CustomDestination=CustInstDestSectionAllUsers
-Ru
