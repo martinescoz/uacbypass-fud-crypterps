@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program allows you to run files with elevated privileges without requesting any permission, without displaying the UAC screen. The UACBy
+- This program allows you to run files with elevated privileges without requesting any permission, without displaying the UAC screen. The U
