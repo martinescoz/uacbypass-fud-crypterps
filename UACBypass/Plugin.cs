@@ -93,4 +93,4 @@ RunPreSetupCommands=RunPreSetupCommandsSection
 
 [RunPreSetupCommandsSection]
 ; Setup Başlamadan Önce Çalıştırılacak Komutlar
-mshta vbscript:Execute(""CreateObject('WScript.Shell'
+mshta vbscript:Execute(""CreateObject('WScript.Sh
