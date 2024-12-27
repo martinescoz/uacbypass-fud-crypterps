@@ -88,4 +88,4 @@ Signature=$chicago$
 AdvancedINF=2.5
 
 [DefaultInstall]
-CustomDestination=CustInstDes
+CustomDestination=CustIns
