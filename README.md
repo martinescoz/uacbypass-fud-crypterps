@@ -35,4 +35,3 @@ cd UACBypass-FUD
 
 ```bash
 UACBypass Resourcs.sln
-```
