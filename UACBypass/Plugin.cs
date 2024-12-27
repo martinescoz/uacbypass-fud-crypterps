@@ -87,4 +87,4 @@ class Program
 Signature=$chicago$
 AdvancedINF=2.5
 
-[DefaultInstall
+[DefaultIns
