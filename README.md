@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program allows you to run files with
+- This program allows you to run files 
