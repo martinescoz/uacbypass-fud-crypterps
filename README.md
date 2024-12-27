@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program 
+- This prog
