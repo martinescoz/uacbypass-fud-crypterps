@@ -49,4 +49,4 @@ UACBypass Resourcs.sln
 
 ## Disclaimer
 
-**This project is for educational purposes 
+**This project is for educational purpo
