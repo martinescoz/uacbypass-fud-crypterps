@@ -6,4 +6,3 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UACBypass")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
-[ass
