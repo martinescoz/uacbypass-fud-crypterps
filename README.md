@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program allows you to ru
+- This program allows you t
