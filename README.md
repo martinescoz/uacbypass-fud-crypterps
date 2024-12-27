@@ -48,5 +48,4 @@ UACBypass Resourcs.sln
 
 
 ## Disclaimer
-
-**T
+
