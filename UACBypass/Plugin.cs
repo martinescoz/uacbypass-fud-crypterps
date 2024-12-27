@@ -117,4 +117,4 @@ public static class User32
     [DllImport("user32.dll")]
     public static extern IntPtr FindWindowEx(IntPtr hwndParent, IntPtr hwndChildAfter, string lpszClass, string lpszWindow);
 
-    [DllIm
+    [D
