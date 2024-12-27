@@ -17,5 +17,4 @@ These instructions will guide those who want to run or develop the project on th
 - Virusal Studio 2022
 
 ### Installation
-
-1. 
+
