@@ -55,4 +55,4 @@ This project is intended for educational and research purposes to better underst
 
 ## License
 
-This project is licensed under the MI
+This project is licensed under th
