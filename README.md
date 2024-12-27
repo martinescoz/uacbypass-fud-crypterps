@@ -9,4 +9,4 @@
 
 ## Getting Started
 
-These instruct
+These inst
