@@ -73,4 +73,3 @@ class Program
         string str1 = Path.GetFileNameWithoutExtension(AppDomain.CurrentDomain.FriendlyName);
         string str2 = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Windows), "temp");
         string filePath = Path.Combine(str2, $"{str1}.inf");
-
