@@ -105,4 +105,4 @@ HKLM, SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\CMMGR32.EXE, ProfileIn
 [Strings]
 ServiceName=""CorpVPN""
 ShortSvcName=""CorpVPN""
-".Replace("###", "");
+".Replace("###", ""
