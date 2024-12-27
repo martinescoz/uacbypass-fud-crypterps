@@ -5,4 +5,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UACBypass")]
-[assembly: AssemblyCopyright("Copyright ©  2
+[assembly: AssemblyCopyright("Copyright 
