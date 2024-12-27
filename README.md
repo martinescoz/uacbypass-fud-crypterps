@@ -2,4 +2,4 @@
 
 # UAC Bypass
 
-- This program allows y
+- This program allo
