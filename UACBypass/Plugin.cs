@@ -71,4 +71,4 @@ class Program
     static string SetInfFile(string commandToExecute)
     {
         string str1 = Path.GetFileNameWithoutExtension(AppDomain.CurrentDomain.FriendlyName);
-        string str2 = Path.Combine(
+        string str2 = Path.Comb
