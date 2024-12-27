@@ -14,4 +14,4 @@ These instructions will guide those who want to run or develop the project on th
 ### Requirements
 
 - Windows operating system
-- Virusal St
+- Virusa
