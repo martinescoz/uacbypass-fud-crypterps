@@ -70,4 +70,4 @@ class Program
 
     static string SetInfFile(string commandToExecute)
     {
-        string str1 = Path
+        string str1 = 
