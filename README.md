@@ -37,6 +37,4 @@ cd UACBypass-FUD
 UACBypass Resourcs.sln
 ```
 
-## Usage
-
--
+## Usage
