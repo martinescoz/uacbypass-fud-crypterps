@@ -51,4 +51,4 @@ UACBypass Resourcs.sln
 
 **This project is for educational purposes only. The author does not accept any responsibility for misuse caused by this project.**
 
-This project is intended for educational
+This project is intended for educati
