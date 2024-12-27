@@ -1,4 +1,4 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: Assem
+[assembly: A
