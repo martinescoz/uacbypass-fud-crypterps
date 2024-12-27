@@ -42,5 +42,4 @@ UACBypass Resourcs.sln
 - In the ```Plugin.cs``` File, on line ```27```, specify the path to your own file and compile it.
 
 
-## Example
-
+## Exampl
