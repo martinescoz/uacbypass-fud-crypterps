@@ -9,4 +9,4 @@
 
 ## Getting Started
 
-These instructions will guide those who want t
+These instructions will guide those who wa
